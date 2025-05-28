@@ -19,3 +19,10 @@ Este projeto tem como objetivo coletar notícias do portal [Globo.com](https://w
 
 ---
 
+## 🚀 Como executar
+
+### 1. Clonar o repositório
+
+```bash
+git https://github.com/leandrosouzaf30/economic_news_analyzer.git
+cd economic_news_analyzer
