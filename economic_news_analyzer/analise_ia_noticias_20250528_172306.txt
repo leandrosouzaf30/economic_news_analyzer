@@ -1,0 +1,11 @@
+======================================================================
+🤖 ANÁLISE DE NOTÍCIAS ECONÔMICAS COM IA - GLOBO.COM
+======================================================================
+📅 Data: 28/05/2025 17:23:06
+🔧 APIs utilizadas:   Local
+
+🔸 NOTÍCIA 1/5
+[ EUA anunciam que vão barrar autoridades que 'censuram' americanos ]
+Tipo de Notícia: Internacional
+Análise de sentimento da notícia: Péssima notícia para o país
+💡 Análise baseada em palavras-chave locais
